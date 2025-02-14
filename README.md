@@ -1,4 +1,5 @@
-```Telecom Customer Churn Analysis
+```
+Telecom Customer Churn Analysis
 
 This project explores customer churn in the telecom industry using a dataset with 7043 observations and 21 columns. The aim is to identify key factors influencing churn and offer practical insights to help reduce churn rates.
 Overview
