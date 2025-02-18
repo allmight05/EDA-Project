@@ -34,22 +34,7 @@ Recommendations
     Contract Incentives: Encourage longer contracts through benefits or discounts.
     Service Quality: Focus on improving fiber optic service quality and promoting additional support services.
     Targeted Efforts: Concentrate retention strategies in cities with high customer counts like Los Angeles and San Diego.
-
-How to Run
-
-    Requirements:
-    Ensure Python and the following libraries are installed:
-        Pandas
-        Matplotlib
-        Seaborn
-        Plotly
-        Openpyxl (for Excel file reading)
-
-    Data Loading:
-    Place the Telco_customer_churn.xlsx file in the project folder.
-
-    Execution:
-    Run the provided notebook or scripts to load, clean, and analyze the data. The code includes data preprocessing, visualization, and detailed analysis of churn factors.
+.
 
 Conclusion
 
